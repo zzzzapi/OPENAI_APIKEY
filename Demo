@@ -1,0 +1,27 @@
+import http.client
+import json
+
+conn = http.client.HTTPSConnection("zzzzapi.com")
+payload = json.dumps({
+   "model": "gpt-4o",
+   "messages": [
+      {
+         "role": "system",
+         "content": "You are a helpful assistant."
+      },
+      {
+         "role": "user",
+         "content": "Hello!"
+      }
+   ],
+   "stream": True
+})
+headers = {
+   'Accept': 'application/json',
+   'Authorization': 'Bearer ',
+   'Content-Type': 'application/json'
+}
+conn.request("POST", "/v1/chat/completions", payload, headers)
+res = conn.getresponse()
+data = res.read()
+print(data.decode("utf-8"))
