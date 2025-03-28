@@ -2,7 +2,7 @@
 
 <h1 align="center"><img src="https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/41034027-a9fc-43f2-a7cf-ab1860d02b1c" alt="icon"/>🚀4Z-API🚀OpenAI中转APIKYE[免费注册版] </h1> 
 <h1 align="center">🔥官方价格0.89:1🔥 1￥购买1$ Token 🔥便宜好用白菜价！🔥</h1> 
-<h2 align="center">支持gpt-3.5 gpt-4.0 gpt-4o gpt-4o-mini</h2> 
+<h2 align="center">支持|gpt4.5|claude3.7|deepseek|Grok3</h2> 
 <h2 align="center">1元起自助充值<a href=https://zzzzapi.com>ZZZZAPI.com</a>拼音助记：4个Z API</h2> 
 
 国内动态加速 | 稳定可靠 | 多冗余负载技术 | 绝无封号风险 | 直连无需代理 | 无需任何注册 | 人工在线客服
